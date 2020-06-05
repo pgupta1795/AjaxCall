@@ -78,7 +78,7 @@
 			      document.getElementById("person").innerHTML = this.responseText;
 			    }
 			  };
-			  xhttp.open("GET", "http://localhost:8181/AjaxDemo/PersonDetails?p="+person, true);
+			  xhttp.open("GET", "http://localhost:8181/GitAjax/PersonDetails?p="+person, true);
 			  xhttp.send();
 		}
 		function ajaxDemo() {

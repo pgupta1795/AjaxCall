@@ -16,12 +16,12 @@
 	</servlet-mapping>
 
 	<servlet>
-		<servlet-name>AjaxDemo</servlet-name>
+		<servlet-name>GitAjax</servlet-name>
 		<servlet-class>com.main.AjaxDemo</servlet-class>
 	</servlet>
 	<servlet-mapping>
-		<servlet-name>AjaxDemo</servlet-name>
-		<url-pattern>/AjaxDemo</url-pattern>
+		<servlet-name>GitAjax</servlet-name>
+		<url-pattern>/GitAjax</url-pattern>
 	</servlet-mapping>
 
 
