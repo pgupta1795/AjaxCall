@@ -1,0 +1,34 @@
+@CHARSET "ISO-8859-1";
+fieldset {
+		width: 200px;
+		background-color : #eeeeee;
+	}
+	input {
+		font-family: Verdana, sans-serif;
+		overflow: auto;
+	}
+	#ajax{
+		padding: 5px 10px;
+		margin: 1px auto;
+		font-family: Verdana, sans-serif;
+	}
+	#ajax2{
+		padding: 5px 10px;
+		margin: 2px auto;
+		font-family: Verdana, sans-serif;
+	}
+	#RELOAD{
+		background : #FFF;
+		position: relative;
+		margin: 0px auto;
+		font-family: inherit;
+  		box-sizing: border-box;
+  		padding: 1em;
+	}
+	.right {
+	  margin: auto;
+	  width: auto;
+	  border: 3px solid #73AD21;
+	  padding: 5px;
+	  text-align: center;
+	}
